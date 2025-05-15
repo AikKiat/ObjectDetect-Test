@@ -14,5 +14,5 @@ https://youtu.be/oVhxidlmAhY
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/user-attachments/assets/4ff237f2-6931-4452-b9c0-3d0a223a261f" style = "width: 8rem; height:8rem"> <img src="https://github.com/user-attachments/assets/e5d63d5d-53b5-4ef4-aa9f-e5ad73b74d4f" style = "width:14rem; height:8rem">
+<img src="https://github.com/user-attachments/assets/4ff237f2-6931-4452-b9c0-3d0a223a261f" style = "width: 8rem; height:8rem"> <img src="https://github.com/user-attachments/assets/e5d63d5d-53b5-4ef4-aa9f-e5ad73b74d4f" style = "width:16rem; height:8rem">
 
